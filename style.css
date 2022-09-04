@@ -1,0 +1,22 @@
+.bi-star-fill {
+  color: #f7de45;
+}
+#myBtn {
+  display: none;
+  position: fixed;
+  bottom: 5px;
+  right: 5px;
+  z-index: 99;
+  border: none;
+  outline: none;
+  background-color: transparent;
+  color: #0d6efd;
+  cursor: pointer;
+  padding: 15px;
+  border-radius: none;
+  font-size: 18px;
+}
+#myBtn:hover {
+  /* background-color: #555; Add a dark-grey background on hover */
+  color: #dc3545;
+}
